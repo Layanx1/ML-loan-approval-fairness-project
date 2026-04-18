@@ -9,7 +9,7 @@ This project investigates gender bias in machine learning models used for loan a
 * 45,000 loan applications (synthetic dataset)
 * 13 input features + 1 target variable
 * Imbalanced dataset (77.78% rejected, 22.22% approved)
-* Link https://github.com/Layanx1/ML-loan-approval-fairness-project
+* Link [https://github.com/Layanx1/ML-loan-approval-fairness-project](https://www.kaggle.com/datasets/taweilo/loan-approval-classification-data)
 
 ## Models Used
 
